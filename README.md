@@ -4,11 +4,12 @@ Takes the center vertical line of every frame of a video and creates an image (v
 
 ## How to use
 
-`python main.py video.mp4'
+`python main.py video.mp4`
 
 ## Requirements
 
+```
 python2
 opencv2 with ffmpeg support
 numpy
-
+```
